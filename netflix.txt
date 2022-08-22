@@ -1,0 +1,42 @@
+
+1) clicco l'applicazione di netflix
+2) inserisco le credenziali dell'account
+3) accedo
+4) scelgo il mio profilo "Andrea"
+
+5) SE siamo > 2 e NOT c'è Francesco OPPURE Rosario
+	ALLORA cerca film
+   ALTRIMENTI cerca serie TV
+
+6) selezione lista generi
+
+7) SE c'è Denis OPPURE Rosario
+	ALLORA non scegliere genere Avventura
+8) SE c'è Francesco
+	ALLORA non scegliere genere Thriller
+9) SE c'è Angelo
+	ALLORA non scegliere genere Azione
+10) SE c'è Andrea
+	ALLORA non scegliere genere Commedia
+
+11) scelgo serie o film
+12) clicco play
+
+
+
+
+
+
+
+--- variabili
+Denis NOT avventura
+Francesco NOT thriller
+Rosario NOT avventura
+Angelo NOT azione
+Andrea NOT commedia
+
+Denis 2 ore
+Francesco 1 ora
+Rosario 1 ore
+Angelo 2 ore
+Andrea 4 ore
